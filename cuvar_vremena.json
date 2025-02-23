@@ -1,0 +1,750 @@
+[
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 18.27000000000004,
+        "feels_like": 18.450000000000045,
+        "description": "overcast clouds",
+        "humidity": 88,
+        "visibility": 10.0,
+        "wind_speed": 2.28,
+        "sunrise": "04:20:08",
+        "sunset": "18:12:13",
+        "uv_index": 3.1,
+        "icon_url": "https://openweathermap.org/img/wn/04d@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "01n",
+                15.450000000000045,
+                25.33000000000004
+            ],
+            [
+                "06.09.2024",
+                "01n",
+                14.460000000000036,
+                24.30000000000001
+            ],
+            [
+                "07.09.2024",
+                "02n",
+                14.510000000000048,
+                23.58000000000004
+            ]
+        ]
+    },
+    {
+        "city": "Belgrade",
+        "country": "RS",
+        "temperature": 27.78000000000003,
+        "feels_like": 27.410000000000025,
+        "description": "clear sky",
+        "humidity": 39,
+        "visibility": 10.0,
+        "wind_speed": 1.54,
+        "sunrise": "04:04:21",
+        "sunset": "17:10:16",
+        "uv_index": 5.32,
+        "icon_url": "https://openweathermap.org/img/wn/01n@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "04n",
+                23.08000000000004,
+                32.670000000000016
+            ],
+            [
+                "06.09.2024",
+                "10n",
+                20.600000000000023,
+                32.32000000000005
+            ],
+            [
+                "07.09.2024",
+                "01n",
+                21.660000000000025,
+                33.18000000000001
+            ]
+        ]
+    },
+    {
+        "city": "Barcelona",
+        "country": "ES",
+        "temperature": 20.480000000000018,
+        "feels_like": 20.78000000000003,
+        "description": "light rain",
+        "humidity": 84,
+        "visibility": 10.0,
+        "wind_speed": 7.2,
+        "sunrise": "05:21:05",
+        "sunset": "18:19:56",
+        "uv_index": 5.91,
+        "icon_url": "https://openweathermap.org/img/wn/10d@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "04n",
+                22.200000000000045,
+                25.460000000000036
+            ],
+            [
+                "06.09.2024",
+                "10n",
+                22.860000000000014,
+                27.75
+            ],
+            [
+                "07.09.2024",
+                "04n",
+                23.74000000000001,
+                27.379999999999995
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 18.27000000000004,
+        "feels_like": 18.450000000000045,
+        "description": "overcast clouds",
+        "humidity": 88,
+        "visibility": 10.0,
+        "wind_speed": 2.28,
+        "sunrise": "04:20:08",
+        "sunset": "18:12:13",
+        "uv_index": 3.1,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "01n",
+                15.450000000000045,
+                25.33000000000004
+            ],
+            [
+                "06.09.2024",
+                "01n",
+                14.460000000000036,
+                24.30000000000001
+            ],
+            [
+                "07.09.2024",
+                "02n",
+                14.510000000000048,
+                23.58000000000004
+            ]
+        ]
+    },
+    {
+        "city": "Puerto Rico",
+        "country": "AR",
+        "temperature": 24.80000000000001,
+        "feels_like": 24.620000000000005,
+        "description": "overcast clouds",
+        "humidity": 49,
+        "visibility": 10.0,
+        "wind_speed": 4.31,
+        "sunrise": "09:49:35",
+        "sunset": "21:28:47",
+        "uv_index": 7.42,
+        "icon_url": "https://openweathermap.org/img/wn/04d@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "01d",
+                8.220000000000027,
+                31.860000000000014
+            ],
+            [
+                "06.09.2024",
+                "01d",
+                16.939999999999998,
+                38.85000000000002
+            ],
+            [
+                "07.09.2024",
+                "01d",
+                19.05000000000001,
+                41.78000000000003
+            ]
+        ]
+    },
+    {
+        "city": "Mog\u00e1n",
+        "country": "ES",
+        "temperature": 22.79000000000002,
+        "feels_like": 22.950000000000045,
+        "description": "clear sky",
+        "humidity": 70,
+        "visibility": 10.0,
+        "wind_speed": 2.75,
+        "sunrise": "06:43:19",
+        "sunset": "19:20:45",
+        "uv_index": 10.09,
+        "icon_url": "https://openweathermap.org/img/wn/01d@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "02n",
+                19.75,
+                23.57000000000005
+            ],
+            [
+                "06.09.2024",
+                "03n",
+                19.980000000000018,
+                23.090000000000032
+            ],
+            [
+                "07.09.2024",
+                "03n",
+                19.720000000000027,
+                23.450000000000045
+            ]
+        ]
+    },
+    {
+        "city": "Belgrade",
+        "country": "RS",
+        "temperature": 27.78000000000003,
+        "feels_like": 27.410000000000025,
+        "description": "clear sky",
+        "humidity": 39,
+        "visibility": 10.0,
+        "wind_speed": 1.54,
+        "sunrise": "04:04:21",
+        "sunset": "17:10:16",
+        "uv_index": 5.32,
+        "icon_url": "https://openweathermap.org/img/wn/01n@2x.png",
+        "forecast": [
+            [
+                "05.09.2024",
+                "04n",
+                23.08000000000004,
+                32.670000000000016
+            ],
+            [
+                "06.09.2024",
+                "10n",
+                20.600000000000023,
+                32.32000000000005
+            ],
+            [
+                "07.09.2024",
+                "01n",
+                21.660000000000025,
+                33.18000000000001
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 25.79000000000002,
+        "feels_like": 26.170000000000016,
+        "description": "few clouds",
+        "humidity": 67,
+        "visibility": 10.0,
+        "wind_speed": 1.45,
+        "sunrise": "04:22:28",
+        "sunset": "18:09:12",
+        "uv_index": 2.96,
+        "icon_url": "https://openweathermap.org/img/wn/02d@2x.png",
+        "forecast": [
+            [
+                "06.09.2024",
+                "01d",
+                14.660000000000025,
+                24.28000000000003
+            ],
+            [
+                "07.09.2024",
+                "04d",
+                15.550000000000011,
+                19.090000000000032
+            ],
+            [
+                "08.09.2024",
+                "10d",
+                14.340000000000032,
+                20.970000000000027
+            ]
+        ]
+    },
+    {
+        "city": "Belgrade",
+        "country": "RS",
+        "temperature": 31.150000000000034,
+        "feels_like": 30.560000000000002,
+        "description": "clear sky",
+        "humidity": 36,
+        "visibility": 10.0,
+        "wind_speed": 4.12,
+        "sunrise": "04:05:31",
+        "sunset": "17:08:25",
+        "uv_index": 5.77,
+        "icon_url": "https://openweathermap.org/img/wn/01d@2x.png",
+        "forecast": [
+            [
+                "06.09.2024",
+                "10n",
+                20.58000000000004,
+                31.879999999999995
+            ],
+            [
+                "07.09.2024",
+                "01n",
+                20.730000000000018,
+                32.64000000000004
+            ],
+            [
+                "08.09.2024",
+                "01n",
+                20.600000000000023,
+                32.410000000000025
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 25.140000000000043,
+        "feels_like": 25.560000000000002,
+        "description": "clear sky",
+        "humidity": 71,
+        "visibility": 10.0,
+        "wind_speed": 1.37,
+        "sunrise": "04:22:28",
+        "sunset": "18:09:12",
+        "uv_index": 2.96,
+        "icon_url": "https://openweathermap.org/img/wn/01d@2x.png",
+        "forecast": [
+            [
+                "06.09.2024",
+                "01d",
+                14.660000000000025,
+                24.28000000000003
+            ],
+            [
+                "07.09.2024",
+                "04d",
+                15.550000000000011,
+                19.090000000000032
+            ],
+            [
+                "08.09.2024",
+                "10d",
+                14.340000000000032,
+                20.970000000000027
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 16.189999999999998,
+        "feels_like": 15.640000000000043,
+        "description": "clear sky",
+        "humidity": 68,
+        "visibility": 10.0,
+        "wind_speed": 0.72,
+        "sunrise": "04:27:08",
+        "sunset": "18:03:09",
+        "uv_index": 2.66,
+        "icon_url": "https://openweathermap.org/img/wn/01d@2x.png",
+        "forecast": [
+            [
+                "08.09.2024",
+                "10d",
+                15.050000000000011,
+                18.53000000000003
+            ],
+            [
+                "09.09.2024",
+                "10d",
+                14.379999999999995,
+                17.54000000000002
+            ],
+            [
+                "10.09.2024",
+                "10d",
+                10.129999999999995,
+                16.620000000000005
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 17.420000000000016,
+        "feels_like": 17.310000000000002,
+        "description": "overcast clouds",
+        "humidity": 80,
+        "visibility": 10.0,
+        "wind_speed": 1.42,
+        "sunrise": "04:27:08",
+        "sunset": "18:03:09",
+        "uv_index": 2.66,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "08.09.2024",
+                "10n",
+                15.230000000000018,
+                18.680000000000007
+            ],
+            [
+                "09.09.2024",
+                "10n",
+                13.04000000000002,
+                17.07000000000005
+            ],
+            [
+                "10.09.2024",
+                "04n",
+                8.180000000000007,
+                12.840000000000032
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 17.420000000000016,
+        "feels_like": 17.310000000000002,
+        "description": "overcast clouds",
+        "humidity": 80,
+        "visibility": 10.0,
+        "wind_speed": 1.42,
+        "sunrise": "04:27:08",
+        "sunset": "18:03:09",
+        "uv_index": 2.66,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "08.09.2024",
+                "10n",
+                15.230000000000018,
+                18.680000000000007
+            ],
+            [
+                "09.09.2024",
+                "10n",
+                13.04000000000002,
+                17.07000000000005
+            ],
+            [
+                "10.09.2024",
+                "04n",
+                8.180000000000007,
+                12.840000000000032
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": 13.189999999999998,
+        "feels_like": 13.050000000000011,
+        "description": "moderate rain",
+        "humidity": 95,
+        "visibility": 8.041,
+        "wind_speed": 5.83,
+        "sunrise": "04:34:07",
+        "sunset": "17:54:02",
+        "uv_index": 2.21,
+        "icon_url": "https://openweathermap.org/img/wn/10d@2x.png",
+        "forecast": [
+            [
+                "11.09.2024",
+                "10n",
+                7.430000000000007,
+                14.770000000000039
+            ],
+            [
+                "12.09.2024",
+                "04n",
+                4.6299999999999955,
+                15.010000000000048
+            ],
+            [
+                "13.09.2024",
+                "01n",
+                4.5400000000000205,
+                15.939999999999998
+            ]
+        ]
+    },
+    {
+        "city": "Fredrikstad",
+        "country": "NO",
+        "temperature": 14.53000000000003,
+        "feels_like": 14.490000000000009,
+        "description": "light rain",
+        "humidity": 94,
+        "visibility": 10.0,
+        "wind_speed": 6.69,
+        "sunrise": "04:34:26",
+        "sunset": "17:52:15",
+        "uv_index": 2.41,
+        "icon_url": "https://openweathermap.org/img/wn/10d@2x.png",
+        "forecast": [
+            [
+                "11.09.2024",
+                "10n",
+                10.650000000000034,
+                14.560000000000002
+            ],
+            [
+                "12.09.2024",
+                "04n",
+                8.189999999999998,
+                13.430000000000007
+            ],
+            [
+                "13.09.2024",
+                "02n",
+                6.800000000000011,
+                14.460000000000036
+            ]
+        ]
+    },
+    {
+        "city": "Be\u0161ka",
+        "country": "RS",
+        "temperature": 17.160000000000025,
+        "feels_like": 17.410000000000025,
+        "description": "overcast clouds",
+        "humidity": 95,
+        "visibility": 10.0,
+        "wind_speed": 0.45,
+        "sunrise": "04:12:43",
+        "sunset": "17:00:53",
+        "uv_index": 5.17,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "11.09.2024",
+                "03n",
+                14.700000000000045,
+                27.80000000000001
+            ],
+            [
+                "12.09.2024",
+                "03n",
+                15.07000000000005,
+                22.0
+            ],
+            [
+                "13.09.2024",
+                "10n",
+                8.730000000000018,
+                14.100000000000023
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": -3.909999999999968,
+        "feels_like": -3.909999999999968,
+        "description": "overcast clouds",
+        "humidity": 44,
+        "visibility": 10.0,
+        "wind_speed": 0.64,
+        "sunrise": "07:57:44",
+        "sunset": "14:17:19",
+        "uv_index": 0.13,
+        "icon_url": "https://openweathermap.org/img/wn/04d@2x.png",
+        "forecast": [
+            [
+                "05.12.2024",
+                "13d",
+                -0.9699999999999704,
+                1.3000000000000114
+            ],
+            [
+                "06.12.2024",
+                "13d",
+                0.75,
+                1.330000000000041
+            ],
+            [
+                "07.12.2024",
+                "13d",
+                1.0900000000000318,
+                1.57000000000005
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": -8.019999999999982,
+        "feels_like": -8.019999999999982,
+        "description": "few clouds",
+        "humidity": 90,
+        "visibility": 10.0,
+        "wind_speed": 1.26,
+        "sunrise": "08:06:06",
+        "sunset": "14:13:10",
+        "uv_index": 0.15,
+        "icon_url": "https://openweathermap.org/img/wn/02n@2x.png",
+        "forecast": [
+            [
+                "10.12.2024",
+                "01n",
+                -5.17999999999995,
+                -1.75
+            ],
+            [
+                "11.12.2024",
+                "03n",
+                -5.169999999999959,
+                -2.0600000000000023
+            ],
+            [
+                "12.12.2024",
+                "04n",
+                -5.92999999999995,
+                -3.819999999999993
+            ]
+        ]
+    },
+    {
+        "city": "Belgrade",
+        "country": "RS",
+        "temperature": 5.410000000000025,
+        "feels_like": 3.7900000000000205,
+        "description": "overcast clouds",
+        "humidity": 83,
+        "visibility": 8.0,
+        "wind_speed": 2.06,
+        "sunrise": "06:04:09",
+        "sunset": "14:57:20",
+        "uv_index": 0.9,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "10.12.2024",
+                "04n",
+                4.740000000000009,
+                5.800000000000011
+            ],
+            [
+                "11.12.2024",
+                "04n",
+                3.6100000000000136,
+                5.25
+            ],
+            [
+                "12.12.2024",
+                "04n",
+                2.9700000000000273,
+                6.580000000000041
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": -6.1299999999999955,
+        "feels_like": -8.45999999999998,
+        "description": "broken clouds",
+        "humidity": 83,
+        "visibility": 10.0,
+        "wind_speed": 1.36,
+        "sunrise": "08:07:34",
+        "sunset": "14:12:35",
+        "uv_index": 0.15,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "11.12.2024",
+                "04n",
+                -5.319999999999993,
+                -2.4599999999999795
+            ],
+            [
+                "12.12.2024",
+                "03n",
+                -6.389999999999986,
+                -2.909999999999968
+            ],
+            [
+                "13.12.2024",
+                "04n",
+                -3.359999999999957,
+                2.590000000000032
+            ]
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "FR",
+        "temperature": 5.850000000000023,
+        "feels_like": 2.1100000000000136,
+        "description": "light intensity drizzle",
+        "humidity": 91,
+        "visibility": 10.0,
+        "wind_speed": 5.66,
+        "sunrise": "07:33:23",
+        "sunset": "15:53:57",
+        "uv_index": 0.61,
+        "icon_url": "https://openweathermap.org/img/wn/09n@2x.png",
+        "forecast": [
+            [
+                "11.12.2024",
+                "04n",
+                3.3100000000000023,
+                6.550000000000011
+            ],
+            [
+                "12.12.2024",
+                "03n",
+                2.2100000000000364,
+                5.75
+            ],
+            [
+                "13.12.2024",
+                "04n",
+                4.3700000000000045,
+                6.830000000000041
+            ]
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "NO",
+        "temperature": -1.9099999999999682,
+        "feels_like": -1.9099999999999682,
+        "description": "overcast clouds",
+        "humidity": 84,
+        "visibility": 10.0,
+        "wind_speed": 1.28,
+        "sunrise": "08:15:39",
+        "sunset": "14:10:58",
+        "uv_index": 0.12,
+        "icon_url": "https://openweathermap.org/img/wn/04n@2x.png",
+        "forecast": [
+            [
+                "18.12.2024",
+                "10n",
+                0.18999999999999773,
+                7.980000000000018
+            ],
+            [
+                "19.12.2024",
+                "04n",
+                -2.089999999999975,
+                1.9500000000000455
+            ],
+            [
+                "20.12.2024",
+                "04n",
+                -3.109999999999957,
+                3.8000000000000114
+            ]
+        ]
+    }
+]
